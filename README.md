@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning reactjs/nodejs/graphql/express/nextjs/c++/python
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me on my email Amzaymz@gmail.com
+- ELTE CS Student, Living in Budapest
 
 <!---
 A-m-z/A-m-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
